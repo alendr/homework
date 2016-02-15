@@ -35,13 +35,13 @@ Berlin Hbf   Frankfurt(M)Flughafen   13:34   18:04   89 EUR   125 EUR
 Berlin Hbf   Frankfurt(M)Flughafen   13:49   18:21   49 EUR   125 EUR
 ....
 
-The search returned 17 routes in x seconds.
+The search returned 17 routes in 12.23 seconds.
 ```
 
 __For the API__
 ```json
 {
-    "response": {
+    "data": {
         "routes": [
             {
                 "departure": "Berlin Hbf",
@@ -64,7 +64,7 @@ __For the API__
         ]
     },
     "found": 17,
-    "time_taken": 123
+    "time_taken": 12.23
 }
 ```
 
@@ -86,7 +86,7 @@ The number of routes fetched and number of seconds that the script took, should 
 
 ### What is evaluated?
 
-* Full working application
+* Fully working application
 * Simplicity of application
 * Architecture of application
 * Smart usage of external libraries.
@@ -94,6 +94,7 @@ The number of routes fetched and number of seconds that the script took, should 
 * Coding style & standard
 * Code documentation
 * Proper usage of Git with meaningful messages.
+* General impression on the solution.
 
 __For some extra points__
 
@@ -102,7 +103,7 @@ __For some extra points__
 
 ## Your application
 
-Describe how to install and use your application.
+Describe here how to install and use your application.
 
 ### How to set up application:
 
