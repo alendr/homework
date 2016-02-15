@@ -1,0 +1,21 @@
+{
+    "name": "goavio/homework",
+    "description": "A homework assignment for GoAvio's job interviews.",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Matej Velikonja",
+            "email": "mv@goavio.com"
+        }
+    ],
+    "require": {
+      "php": ">=5.5.9"
+    },
+    "require-dev": {
+      "phpunit/phpunit": "~4.0"
+    },
+    "config": {
+        "preferred-install": "dist",
+        "bin-dir": "bin"
+    }
+}
