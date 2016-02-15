@@ -29,7 +29,7 @@ So for the example data, the response should look something like.
 
 __For the command line__
 ```bash
-$ php search.php --departure="Berlin+HBF" --arrival="Frankfurt(M)Flughafen" --date="2016-03-01 13:37:00"
+$ php search.php --departure="Berlin HBF" --arrival="Frankfurt(M)Flughafen" --date="2016-03-01 13:37:00"
 
 Berlin Hbf   Frankfurt(M)Flughafen   13:34   18:04   89 EUR   125 EUR
 Berlin Hbf   Frankfurt(M)Flughafen   13:49   18:21   49 EUR   125 EUR
