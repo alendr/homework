@@ -75,6 +75,7 @@ The number of routes fetched and number of seconds that the script took, should 
 * __Database__: MySQL / MariaDB or PostgreSQL. _(if needed)_
 * __Framework__: Laravel5, Symfony3, Lumen or Silex. (You can also use custom solution without a framework. But usage of external libraries is encouraged.)
 * __Composer__ for installing external libraries.
+* __Git__ for tracking code changes
 * Application has to work on __Ubuntu 14.04 LTS__ (but can be developed on any other OS).
 
 <sup><sub>__Disclaimer__: If needed you can use different tech stack, but has to be confirmed by me first. So contact me if needed.</sup></sub>
